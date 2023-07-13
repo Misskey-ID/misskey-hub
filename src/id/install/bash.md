@@ -17,7 +17,7 @@ Terdapat juga script untuk memutakhirkan.
 3. Akun Cloudflare (Direkomendasikan)
 
 ::: danger
-Jangan pernah mengganti nama domain (hostname) dari instansi sesudah kamu mulai menggunakannya!
+Jangan pernah mengganti nama domain (hostname) peladen ketika kamu sudah mulai menggunakannya!
 :::
 
 ## Pengaturan Clouflare
