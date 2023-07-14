@@ -8,9 +8,9 @@ Dalam Misskey, memungkinkan juga untuk menambahkan [reaksi](./reaction) ke dalam
 
 Dengan menambahkan catatan ke [favoritmu](./favorite), kamu dapat menemukannya dengan mudah di lain waktu ke depannya nanti.
 
-## Composing Notes
+## Membuat Catatan
 
-To compose a note, press one of the buttons with a pencil icon on your screen to open the posting form (either at the top of your timeline or at the bottom of the navigation menu). Enter the content you want to post in the form, and press the "Note" button to publish it. Notes can contain text, files such as images or videos, and [Polls](./poll). In addition, by using [MFM](./mfm) within your text, you can include [Mentions](./mention) and [Hashtags](./hashtag). There are also other settings such as CW (Content Warning) or note visibility that are explained below.
+Untuk membuat catatam, tekan salah satu tombol dengan ikon pensil pada layar kamu untuk membuka form posting (baik itu ada di atas lini masa kamu atau ada di bagian bawah menu navigasi). Masukkan konten yang ingin kamu post ke dalam form, dan tekan tombol "Catat" untuk mempublikasikannya. Catatan dapat berisi teks, berkas seperti gambar atau video, dan [jajak pendapat](./poll). Sebagai tambahan, dengan menggunakan [MFM](./mfm) di dalam teksmu, kamu dapat menyertakan [sebutan](./mention) and [tagar](./hashtag). Terdapat juga pengaturan lainnya seperti CW (Content Warning) atau visibilitas catata yang mana dijelaskan di bawah ini.
 
 ::: tip
 Jika kamu berada di komputer dan memiliki gambar tersimpan pada papan klipmu, kamu dapat melampirkannya ke catatanmu hanya dengan menggunakan jalan pintas papan ketik untuk menempelkan ke kotak teks.
