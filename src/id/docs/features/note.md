@@ -25,7 +25,7 @@ Kamu juga dapat menekan <kbd class="key">Ctrl + Enter</kbd> di dalam kotak teks 
 Kegiatan mengutip dari catatan yang sudah ada atau membagikan catatan yang sudah ada. Catatan yang telah dibuat sebagai hasil dari kegiatan ini semua disebut sebagai Renote/RN (atau "merenote" sebagai kata kerja). Sering kali, fitur ini digunakan untuk membagikan catatan yang kamu sukai kepada pengikutmu sendiri, atau ketika kamu ingin membagikan catatan yang kamu publikasikan di masa lalu sekali lagi. Meskipun memungkinkan untuk merenote catatan yang sama berkali-kali, mohon diperhatikan bahwa kegiatan yang kamu lakukan ini dapat dilihat mengganggu bagi orang lain.
 
 ::: warning
-Hika kamu mengatur visibilitas catatanmu ke pengikut saja atau langsung, maka orang lain tidak akan dapat merenote catatanmu.
+Jika kamu mengatur visibilitas catatanmu ke pengikut saja atau langsung, maka orang lain tidak akan dapat merenote catatanmu.
 :::
 
 Untuk mengurungkan renote, tekan "..." di sebelah cap waktu renote dan pilih "Tarik Renote".
