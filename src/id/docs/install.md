@@ -2,7 +2,7 @@
 Terima kasih sudah tertarik membangun instansi Misskey 🚀
 Ada beberapa cara membuat instansi, jadi silakan pilih di bawah ini dan baca panduannya.
 
-::: bahaya
+::: danger
 Jangan ubah nama domain (hostname) instansi saat kamu mulai menggunakannya!
 :::
 
