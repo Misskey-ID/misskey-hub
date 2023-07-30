@@ -51,7 +51,7 @@ adduser --disabled-password --disabled-login misskey
 
 	`cd misskey`
 
-4. Check out ke branch [rilisan terbaru](https://github.com/misskey-dev/misskey/releases/latest)
+4. Checkout ke branch [rilisan terbaru](https://github.com/misskey-dev/misskey/releases/latest)
 
 	`git checkout master`
 
