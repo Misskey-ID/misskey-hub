@@ -2,7 +2,9 @@
 Glosarium tentang kumpulan kata yang berhubungan dengan Misskey.
 
 ## Acct
-TODO
+=======
+String dalam bentuk `@namapengguna@peladen` yang menunjukkan pengguna tertentu. Biasanya digunakan pada saat menyebut seseorang.
+
 
 ## ActivityPub
 Protokol (metode) yang dipakai untuk menghidupkan lingkungan terdistribusi Misskey. Dengan mengikuti protokol ini, komunikasi dengan instansi lain maupun dengan yang mengikuti instansi tersebut dapat terjadi, membentuk sesuatu yang dikenal sebagai Fediverse.
@@ -14,7 +16,7 @@ Bahasa pemrograman yang tersedia di Misskey. Detailnya, lihat [di sini](../advan
 Antarmuka yang dipakai untuk berinteraksi dengan Misskey melalui sebuah program, tersedia untuk setiap instansi. Detailnya, lihat [di sini](../docs/api).
 
 ## Bot
-Akun yang dikontrol oleh program.
+Akun yang dikendalikan oleh program.
 
 ## CW
 Singkatan dari "Content Warning" (Peringatan Konten). Fitur untuk menyembunyikan konten catatan yang dapat dibuka atas permintaan pengguna. Utamanya dipakai untuk menyembunyikan konten dengan catatan panjang atau untuk mencegah kiriman berupa bocoron ke publik, lihat [di sini](../docs/features/note.html#cw)
@@ -22,26 +24,26 @@ Singkatan dari "Content Warning" (Peringatan Konten). Fitur untuk menyembunyikan
 ## Fediverse
 Jaringan instansi yang ditulis oleh beragam platform berbeda yang berkomunikasi dengan lainnya, termasuk Misskey.
 
-## GTL
-Singkatan dari "Global Timeline" (Linimasa Global). Detail tentang linimasi, silakan lihat [di sini](../features/timeline).
+## LMG
+Singkatan dari "Lini Masa Global". Untuk lebih detilnya mengenai lini masa, [lihat di sini.](../features/timeline).
 
-## HTL
-Singkatan dari "Home Timeline" (Linimasa Beranda). Detail tentang linimasa, silakan lihat [di sini](../features/timeline)
+## LMB
+Singkatan dari "Lini Masa Beranda". Untuk lebih detilnya mengenai lini masa, [lihat di sini.](../features/timeline).
 
-## LTL
-Singkatan dari "Local Timeline" (Linimasa Lokal). Detail tentang linimasa, silakan lihat [di sini](../features/timeline)
+## LML
+Singkatan dari "Lini Masa Lokal". Untuk lebih detilnya mengenai lini masa, [lihat di sini.](../features/timeline).
+
+## LMS
+Singkatan dari "Lini Masa Sosial". Untuk lebih detilnya mengenai lini masa, [lihat di sini.](../features/timeline).
 
 ## MFM
 Singkatan dari "Markup Language For Misskey" (Bahasa Markup Untuk Misskey), bahasa markdown untuk dipakai di Misskey. Detailnya, lihat [di sini](../features/mfm).
 
 ## NSFW
-Singkatan dari "Not Safe For Work" (Tidak Aman Dibuka di Tempat Umum). Fitur untuk menandai gambar sebagai "NSFW" lalu menyembunyikannya. Dapat dibuka pengguna saat diminta.
+Singkatan dari "Not Safe For Work" (Tidak Aman Dibuka di Tempat Umum). Sebuah fitur untuk menandai gambar sebagai "NSFW" lalu menyembunyikannya. Dapat dibuka pengguna saat diminta.
 
 ## Renote
 Tindakan mengutip catatan yang sudah ada, membagikan catatan yang sudah ada, atau yang dibuat dari hasil tindakan ini. Detailnya, lihat [di sini](../docs/features/note.html#renote).
-
-## STL
-Singkatan dari "Social Timeline" (Linimasa Sosial). Detail tentang linimasa, silakan lihat [di sini](../features/timeline).
 
 ## Ai(藍)
 Ai(藍) adalah maskot resmi Misskey.
@@ -55,17 +57,16 @@ TODO
 ## Emoji Kustom
 Emoji yang disediakan oleh instansi kamu. Emoji yang tidak secara khusus disediakan oleh instansi kamu tapi tersedia secara bawaan disebut sebagai "Emoji Unicode". Detailnya, lihat [di sini](../docs/features/custom-emoji).
 
+## Panel Kendali
+Menu pengaturan yang ditujukan untuk mengatur peladen Misskey.
 
-## Panel Kontrol
-TODO
-
-## Sunyi
+## Senyap
 Keadaan saat keterlihatan catatan pengguna tidak dapat diatur ke "Publik" lagi. Dapat diatur masing-masing individu tapi perlu mengandalkan kebijaksanaan Moderator. Detailnya, lihat [di sini](../features/silence).
 
 ## Antrean Kerja
-Sistem yang dipakai untuk aktivitas penyiaran terus-terusan ke instansi lain dll.
+Sistem yang digunakan untuk aktivitas penyiaran terus-terusan ke instansi lain dll.
 
-## Tangguh
+## Ditangguhkan
 Situasi yang membuat akun pengguna tidak dapat dipakai.
 
 ## Drive
